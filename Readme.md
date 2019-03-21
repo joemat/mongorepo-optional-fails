@@ -9,3 +9,5 @@ java.lang.UnsupportedOperationException: Cannot set immutable property java.util
 The same test runs through without error in the springboot-2.0.6 branch.
 
 See also https://stackoverflow.com/questions/53395198/spring-common-data-2-1-2-mongodb-cant-deserialise-optional-value
+
+JIRA-Ticket: https://jira.spring.io/browse/DATACMNS-1501
